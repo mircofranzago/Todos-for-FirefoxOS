@@ -1,0 +1,13 @@
+{
+  "name": "firefox-app-mirco",
+  "description": "Prima prova firefoxos",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/style/icons/firefox.png"
+  },
+  "permissions": {
+    "geolocation": {
+      "description": "description"
+      }
+  }
+}
